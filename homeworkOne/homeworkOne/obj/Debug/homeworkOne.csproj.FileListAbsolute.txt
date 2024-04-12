@@ -1,0 +1,7 @@
+D:\studies\studies\Year 1 Sem 3\C#\Practices\homeworkOne\homeworkOne\bin\Debug\homeworkOne.exe.config
+D:\studies\studies\Year 1 Sem 3\C#\Practices\homeworkOne\homeworkOne\bin\Debug\homeworkOne.exe
+D:\studies\studies\Year 1 Sem 3\C#\Practices\homeworkOne\homeworkOne\bin\Debug\homeworkOne.pdb
+D:\studies\studies\Year 1 Sem 3\C#\Practices\homeworkOne\homeworkOne\obj\Debug\homeworkOne.csproj.AssemblyReference.cache
+D:\studies\studies\Year 1 Sem 3\C#\Practices\homeworkOne\homeworkOne\obj\Debug\homeworkOne.csproj.CoreCompileInputs.cache
+D:\studies\studies\Year 1 Sem 3\C#\Practices\homeworkOne\homeworkOne\obj\Debug\homeworkOne.exe
+D:\studies\studies\Year 1 Sem 3\C#\Practices\homeworkOne\homeworkOne\obj\Debug\homeworkOne.pdb
