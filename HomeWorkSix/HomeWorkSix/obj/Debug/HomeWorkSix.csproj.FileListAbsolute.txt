@@ -1,0 +1,7 @@
+D:\studies\studies\Year 1 Sem 3\C#\Practices\HomeWorkSix\HomeWorkSix\bin\Debug\HomeWorkSix.exe.config
+D:\studies\studies\Year 1 Sem 3\C#\Practices\HomeWorkSix\HomeWorkSix\bin\Debug\HomeWorkSix.exe
+D:\studies\studies\Year 1 Sem 3\C#\Practices\HomeWorkSix\HomeWorkSix\bin\Debug\HomeWorkSix.pdb
+D:\studies\studies\Year 1 Sem 3\C#\Practices\HomeWorkSix\HomeWorkSix\obj\Debug\HomeWorkSix.csproj.AssemblyReference.cache
+D:\studies\studies\Year 1 Sem 3\C#\Practices\HomeWorkSix\HomeWorkSix\obj\Debug\HomeWorkSix.csproj.CoreCompileInputs.cache
+D:\studies\studies\Year 1 Sem 3\C#\Practices\HomeWorkSix\HomeWorkSix\obj\Debug\HomeWorkSix.exe
+D:\studies\studies\Year 1 Sem 3\C#\Practices\HomeWorkSix\HomeWorkSix\obj\Debug\HomeWorkSix.pdb
