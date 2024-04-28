@@ -1,0 +1,7 @@
+D:\studies\studies\Year 1 Sem 3\C#\Practices\HomeWorkEight\HomeWorkEight\bin\Debug\HomeWorkEight.exe.config
+D:\studies\studies\Year 1 Sem 3\C#\Practices\HomeWorkEight\HomeWorkEight\bin\Debug\HomeWorkEight.exe
+D:\studies\studies\Year 1 Sem 3\C#\Practices\HomeWorkEight\HomeWorkEight\bin\Debug\HomeWorkEight.pdb
+D:\studies\studies\Year 1 Sem 3\C#\Practices\HomeWorkEight\HomeWorkEight\obj\Debug\HomeWorkEight.csproj.AssemblyReference.cache
+D:\studies\studies\Year 1 Sem 3\C#\Practices\HomeWorkEight\HomeWorkEight\obj\Debug\HomeWorkEight.csproj.CoreCompileInputs.cache
+D:\studies\studies\Year 1 Sem 3\C#\Practices\HomeWorkEight\HomeWorkEight\obj\Debug\HomeWorkEight.exe
+D:\studies\studies\Year 1 Sem 3\C#\Practices\HomeWorkEight\HomeWorkEight\obj\Debug\HomeWorkEight.pdb
