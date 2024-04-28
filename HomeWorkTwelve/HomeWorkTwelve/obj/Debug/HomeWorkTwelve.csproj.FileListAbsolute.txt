@@ -1,0 +1,7 @@
+D:\studies\studies\Year 1 Sem 3\C#\Practices\HomeWorkTwelve\HomeWorkTwelve\bin\Debug\HomeWorkTwelve.exe.config
+D:\studies\studies\Year 1 Sem 3\C#\Practices\HomeWorkTwelve\HomeWorkTwelve\bin\Debug\HomeWorkTwelve.exe
+D:\studies\studies\Year 1 Sem 3\C#\Practices\HomeWorkTwelve\HomeWorkTwelve\bin\Debug\HomeWorkTwelve.pdb
+D:\studies\studies\Year 1 Sem 3\C#\Practices\HomeWorkTwelve\HomeWorkTwelve\obj\Debug\HomeWorkTwelve.csproj.AssemblyReference.cache
+D:\studies\studies\Year 1 Sem 3\C#\Practices\HomeWorkTwelve\HomeWorkTwelve\obj\Debug\HomeWorkTwelve.csproj.CoreCompileInputs.cache
+D:\studies\studies\Year 1 Sem 3\C#\Practices\HomeWorkTwelve\HomeWorkTwelve\obj\Debug\HomeWorkTwelve.exe
+D:\studies\studies\Year 1 Sem 3\C#\Practices\HomeWorkTwelve\HomeWorkTwelve\obj\Debug\HomeWorkTwelve.pdb
